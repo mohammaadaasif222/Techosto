@@ -3,14 +3,12 @@ import React from 'react'
 export default function About() {
   return (
     <div className='py-20 px-4 max-w-6xl mx-auto'>
-      <h1 className='text-3xl font-bold mb-4 text-slate-800'>About Royal Cars</h1>
-      <p className='mb-4 text-slate-700'>Royal Wheels Rental Service reigns as a distinguished car rental agency, specializing in providing a regal fleet of vehicles for discerning clients seeking luxury travel experiences.</p>
+      <h1 className='text-3xl font-bold mb-4 text-slate-800'>Techosto Acadamy</h1>
+      <p className='mb-4 text-slate-700'>At Techosto, we stand as a beacon of educational excellence, committed to nurturing young minds and fostering a passion for learning. Our academy is more than just an institution; it's a vibrant community dedicated to shaping the leaders and innovators of tomorrow.</p>
       <p className='mb-4 text-slate-700'>
-      At Royal Wheels, our mission is to elevate the standards of travel by offering unparalleled luxury, impeccable service, and a commitment to delivering an experience fit for royalty. Whether it's for business or pleasure, our goal is to exceed the expectations of our esteemed clientele.
+      Driven by a vision to transform education, we aspire to create an environment that nurtures intellectual curiosity, encourages critical thinking, and instills a lifelong love for learning in every student. We aim to be a catalyst for academic success, empowering our students to reach their full potential and beyond.
       </p>
-      <p className='mb-4 text-slate-700'>
-      Step into sophistication with our meticulously curated fleet of luxury vehicles, featuring elite models from renowned manufacturers, ensuring an opulent and comfortable journey.
-        </p>
+    
     </div>
   )
 }
